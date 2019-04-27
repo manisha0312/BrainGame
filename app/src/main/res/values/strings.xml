@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Brain Game</string>
+    <string name="go">GO</string>
+    <string name="time">00:30s</string>
+    <string name="wins">0/0</string>
+    <string name="_00_30">00:30</string>
+    <string name="output">30+7</string>
+    <string name="button">14</string>
+    <string name="correct">Correct</string>
+    <string name="playagain">PLAYAGAIN</string>
+</resources>
